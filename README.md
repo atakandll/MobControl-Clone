@@ -24,7 +24,7 @@ There is a 2 example levels in the project.
   <img src="MobControl Clone/Assets/Media/Lvl2.gif" width="900">
 </p>
 
-[For More Gameplay](https://drive.google.com/drive/u/0/folders/1ESJO5skms8NKmbM_Y-t4btnb_Qev7Jrl)
+
 ## Assets
 Hyper Casual Charcter= [HyperCasualCharacter](https://sketchfab.com/3d-models/hyper-casual-charcter-9990bda2c5a240c28ef0687d94d22c5d).
 
