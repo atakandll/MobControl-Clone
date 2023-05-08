@@ -26,7 +26,7 @@ There is a 2 example levels in the project.
 
 [For More Gameplay](https://drive.google.com/drive/u/0/folders/1ESJO5skms8NKmbM_Y-t4btnb_Qev7Jrl)
 ## Assets
-Hyper Casual Charcter= (https://sketchfab.com/3d-models/hyper-casual-charcter-9990bda2c5a240c28ef0687d94d22c5d).
+Hyper Casual Charcter= [HyperCasualCharacter](https://sketchfab.com/3d-models/hyper-casual-charcter-9990bda2c5a240c28ef0687d94d22c5d).
 
 DoTwen = [DOTween (HOTween v2)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676).
 
