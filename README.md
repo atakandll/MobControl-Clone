@@ -1,6 +1,6 @@
 # MobControl Clone
 This is my first assigmnet for JuniorFactory incubation program.
-This project is a Clone of MobControl  game you can acces to the orginal game from teese links.
+This project is a Clone of MobControl  game you can acces to the orginal game from these links.
 
 📱 Google Play: https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=tr&gl=US
 
